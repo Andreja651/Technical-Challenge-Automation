@@ -1,0 +1,24 @@
+1. A QA engineer is performing regression testing on a software application after a bug fix. The engineer wants to ensure that the bug fix did not introduce
+new issues or impact existing functionalities. Which approach would be most suitable for regression testing?
+
+- After a bug fix, selective regression testing is needed by the QA engineer so they can focus on test cases that are related to the areas impacted by the fix. The process involves
+analyzing the changes to identify affected modules, executing the relevant test cases and verifying that the fix works correctly without introducing additional defects.
+
+2. The QA team is in the final stages of testing a critical software update scheduled for release in two days. The team is focused on executing comprehensive test cases,
+conducting regression testing, and ensuring that all identified issues are resolved before the deadline. Suddenly, the team receives several urgent customer requests through various
+channels such as email, support tickets, and direct phone calls.
+These requests include:
+- A critical bug reported by a high-profile customer that renders a core feature unusable, significantly impacting their business operations.
+- A functionality enhancement request from a long-standing customer, which they claim is essential for their workflow efficiency and competitive edge.
+- Multiple reports of intermittent performance issues from a group of enterprise clients who rely heavily on the software's responsiveness for their day-to-day
+operations.
+
+With the impending release deadline, the QA team must make quick yet informed
+decisions on how to prioritize these customer requests while ensuring that the ongoing
+testing efforts remain on track.
+
+How would you address this high-pressure situation and make strategic decisions
+accordingly?
+- Requests should be prioritized first, critical bugs must be fixed as soon as possible, enhancements should be deferred and performance issues investigated without blocking the release. Internal stakeholders and customers
+should be kept informed about what is addressed now and what will come later. QA resources should focus on testing the critical bug, maintain regression testing and monitor performance issues. Release delays should only occur
+for blocking issues and all actions and decisions must be documented for accountability.

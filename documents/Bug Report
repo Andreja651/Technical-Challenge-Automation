@@ -1,0 +1,32 @@
+Bug Report: Login Button Not Visible on Desktop
+
+Project: Swag Labs (https://www.saucedemo.com)
+Reported By: Andreja Mihajlovski
+Date: 16/08/2025
+
+Environment:
+
+Browser: Microsoft Edge (latest versions)
+Device: Desktop
+OS: Windows 10
+Screen Resolution: 1920x1080
+
+Bug ID: SL-002 (SL stands for Swag Labs)
+
+Title: Login button not visible on desktop devices.
+
+Description: When accessing the Swag Labs website on a desktop browser, after entering a username and password the Login button is not visible. The button is only visible on
+mobile devices, preventing desktop users from logging in.
+
+Steps to Reproduce:
+
+1. Open https://www.saucedemo.com on a desktop browser.
+2. Enter a valid username in the Username field.
+3. Enter a valid password in the Password field.
+4. Observe that the Login button is missing.
+
+Expected Result:
+The Login button should be visible and clickable on all devices (desktop, tablet, and mobile).
+
+Actual Result:
+The Login button is only visible on mobile devices. Desktop users cannot see or click the button.

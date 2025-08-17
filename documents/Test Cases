@@ -1,0 +1,11 @@
+Age = 0 --> INVALID
+Age > 0, Age < 18 --> CHILD
+Age >= 18 --> ADULT
+
+Test case        Description                         Age           Expected Result         Reason
+TC1              Age less than 0 (invalid input)    -5             INVALID                 Age can not be negative
+TC2              Age equals 0                        0             INVALID                 Zero age is considered invalid
+TC3              Age just above 0                    1             CHILD                   First valid CHILD age
+TC4              Upper boundary of CHILD             17            CHILD                   Highest CHILD age
+TC5              Lower boundary of ADULT             18            ADULT                   First age considered ADULT
+TC6              Age just above ADULT                19            ADULT                   Just above ADULT threshold
